@@ -3,8 +3,8 @@ REM build_ogre_Visual_Studio_17_2022_x64.bat file below:
 SETLOCAL
  
 d:
-mkdir D:\ogre3d_builds\temp
-cd D:\ogre3d_builds\temp
+mkdir D:\ogre3d_builds\
+cd D:\ogre3d_builds\
 
 set OGRE_BRANCH_NAME=v3-0
 set GENERATOR="Visual Studio 17 2022"
